@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1.1.1-RELEASE.iml" filepath="$PROJECT_DIR$/.idea/1.1.1-RELEASE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.melihhilmiuludag.tr.api/com.melihhilmiuludag.tr.api.iml" filepath="$PROJECT_DIR$/com.melihhilmiuludag.tr.api/com.melihhilmiuludag.tr.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.melihhilmiuludag.tr.data/com.melihhilmiuludag.tr.data.iml" filepath="$PROJECT_DIR$/com.melihhilmiuludag.tr.data/com.melihhilmiuludag.tr.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.melihhilmiuludag.tr.domain/com.melihhilmiuludag.tr.domain.iml" filepath="$PROJECT_DIR$/com.melihhilmiuludag.tr.domain/com.melihhilmiuludag.tr.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.melihhilmiuludag.tr.repository/com.melihhilmiuludag.tr.repository.iml" filepath="$PROJECT_DIR$/com.melihhilmiuludag.tr.repository/com.melihhilmiuludag.tr.repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.melihhilmiuludag.tr.service/com.melihhilmiuludag.tr.service.iml" filepath="$PROJECT_DIR$/com.melihhilmiuludag.tr.service/com.melihhilmiuludag.tr.service.iml" />
+    </modules>
+  </component>
+</project>

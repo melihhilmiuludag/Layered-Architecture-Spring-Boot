@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com.melihhilmiuludag.tr.repository" />
+        <module name="1.1.1-RELEASE" />
+        <module name="com.melihhilmiuludag.tr.data" />
+        <module name="com.melihhilmiuludag.tr.domain" />
+        <module name="com.melihhilmiuludag.tr.api" />
+        <module name="com.melihhilmiuludag.tr.service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1.1.1-RELEASE" target="11" />
+      <module name="com.melihhilmiuludag.tr.api" target="11" />
+      <module name="com.melihhilmiuludag.tr.data" target="11" />
+      <module name="com.melihhilmiuludag.tr.domain" target="11" />
+      <module name="com.melihhilmiuludag.tr.repository" target="11" />
+      <module name="com.melihhilmiuludag.tr.service" target="11" />
+      <module name="com.melihhilmiuludag.tr.service (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="1.1.1-RELEASE" options="-parameters" />
+      <module name="com.melihhilmiuludag.tr.api" options="-parameters" />
+      <module name="com.melihhilmiuludag.tr.data" options="-parameters" />
+      <module name="com.melihhilmiuludag.tr.domain" options="-parameters" />
+      <module name="com.melihhilmiuludag.tr.repository" options="-parameters" />
+      <module name="com.melihhilmiuludag.tr.service" options="-parameters" />
+    </option>
+  </component>
+</project>
